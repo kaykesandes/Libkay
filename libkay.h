@@ -16,5 +16,6 @@
 int ft_strlen(const char *string);
 void bubble(int *v, int size_t);
 void ft_remove_string(char *str_in, char *str_out);
+int sum_array(const int *values, size_t count);
 
 #endif
